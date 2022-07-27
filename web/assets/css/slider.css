@@ -1,0 +1,34 @@
+.carousel-caption{
+    padding-bottom: 250px;
+}
+.carousel-caption h5{
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.carousel-caption h6{
+    font-size: 35px;
+    color: black;
+}
+.carousel-caption h5 span{
+    color: darkgreen;
+}
+.carousel-caption a{
+    background: silver;
+    padding: 15px 35px;
+    display: inline-block;
+    margin-top: 15px;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 25px;
+}
+.carousel-control.right{
+    background-image: none;
+}
+.carousel-control.left{
+    background-image: none;
+}
+.carousel-indicators .active{
+    background-color: #edbb00;
+    border-color: #edbb00;
+}
